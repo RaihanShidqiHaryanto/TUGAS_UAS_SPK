@@ -2,7 +2,7 @@ USER = 'postgres'
 PASSWORD = '123'
 HOST = 'localhost'
 PORT = '5432'
-DATABASE_NAME = 'UASibnu' 
+DATABASE_NAME = 'UASraihan' 
 
 MEREK_SCALE = {
     "Redmi C11" : 8,
