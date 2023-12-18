@@ -1,7 +1,7 @@
 # Tugas UAS SPK
-Nama : Ibnu Saputra <br>
-NIM : 201011400588 <br>
-Kelas : 07-TPLP-013 <br>
+Nama : Raihan Shidqi Haryanto <br>
+NIM : 201011401295 <br>
+Kelas : 07TPLP012 <br>
 
 ## Install requirements
 ```pip install -r requirements.txt```
